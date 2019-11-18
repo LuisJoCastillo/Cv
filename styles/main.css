@@ -7266,3 +7266,104 @@ a.credit {
 .section {
   padding-bottom: 0;
 }
+
+.color-gris-obscuro:hover{
+  background-color: #9b9b9b;
+}
+.color-gris-obscuro{
+  background-color: #595959 !important;
+}
+.color-gris-obscuro-escrito:hover{
+  color: #9b9b9b;
+}
+.color-gris-obscuro-escrito{
+  color: #595959 !important;
+}
+.color-gris-claro{
+  background-color: #d1d1d1 !important;
+}
+
+
+.color-verde-obscuro:hover{
+  background-color: #00b5af !important;
+}
+.color-verde-obscuro{
+  background-color: #006865 !important;
+}
+.color-verde-obscuro-escrito:hover{
+  color: #006865;
+}
+.color-verde-obscuro-escrito{
+  color: #006865 !important;
+}
+.color-verde-claro{
+  background-color: #00b5af !important;
+}
+
+
+.color-cafe-obscuro:hover{
+  background-color: #7a3c11 !important;
+}
+.color-cafe-obscuro{
+  background-color: #351a07 !important;
+}
+.color-cafe-obscuro-escrito:hover{
+  color: #351a07;
+}
+.color-cafe-obscuro-escrito{
+  color: #351a07 !important;
+}
+.color-cafe-claro{
+  background-color: #7a3c11 !important;
+}
+
+
+.color-guacamole-obscuro:hover{
+  background-color: #abae53 !important;
+}
+.color-guacamole-obscuro{
+  background-color: #797B3A !important;
+}
+.color-guacamole-obscuro-escrito:hover{
+  color: #797B3A;
+}
+.color-guacamole-obscuro-escrito{
+  color: #797B3A !important;
+}
+.color-guacamole-claro{
+  background-color: #abae53 !important;
+}
+
+
+.color-cherry-obscuro:hover{
+  background-color: #e7d08c !important;
+}
+.color-cherry-obscuro{
+  background-color: #D4AB31 !important;
+}
+.color-cherry-obscuro-escrito:hover{
+  color: #D4AB31;
+}
+.color-cherry-obscuro-escrito{
+  color: #D4AB31 !important;
+}
+.color-cherry-claro{
+  background-color: #e7d08c !important;
+}
+
+
+.color-rosa-obscuro:hover{
+  background-color: #00b5af !important;
+}
+.color-rosa-obscuro{
+  background-color: #006865 !important;
+}
+.color-rosa-obscuro-escrito:hover{
+  color: #006865;
+}
+.color-rosa-obscuro-escrito{
+  color: #006865 !important;
+}
+.color-rosa-claro{
+  background-color: #00b5af !important;
+}
